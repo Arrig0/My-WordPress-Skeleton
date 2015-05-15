@@ -6,7 +6,7 @@ lock '3.4.0'
 ############################################
 
 set :application, 'zero'
-set :repo_url, 'git@github.com/Arrig0/My-WordPress-Skeleton.git'
+set :repo_url, 'https://github.com/Arrig0/My-WordPress-Skeleton.git'
 set :scm, :git
 
 ############################################
