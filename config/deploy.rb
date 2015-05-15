@@ -28,7 +28,7 @@ set :ssh_options, {
   keys: ["/home/arrigo/credentials/zeroaws.pem"]
 }
 
-set :keep_releases, 5
+set :keep_releases, 3
 
 
 # Default branch is :master

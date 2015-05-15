@@ -23,6 +23,7 @@ set :branch, "0.1-branch"
 # server 'db.example.com', user: 'deploy', roles: %w{db}
 
 
+
 # role-based syntax
 # ==================
 
