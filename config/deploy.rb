@@ -11,7 +11,7 @@ set :scm, :git
 
 set :git_strategy, SubmoduleStrategy
 
-#set :deploy_via, :export #:remote_cache
+set :deploy_via, :remote_cache #:export
 
 ############################################
 # Setup Capistrano
