@@ -11,7 +11,7 @@ set :deploy_to, "/var/www/html"
 # Setup Git
 ############################################
 
-set :branch, "master"
+set :branch, "0.1-branch"
 
 # server-based syntax
 # ======================
