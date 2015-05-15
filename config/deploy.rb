@@ -9,6 +9,8 @@ set :application, 'zero'
 set :repo_url, 'https://github.com/Arrig0/My-WordPress-Skeleton.git'
 set :scm, :git
 
+#set :deploy_via, :export #:remote_cache
+
 ############################################
 # Setup Capistrano
 ############################################
