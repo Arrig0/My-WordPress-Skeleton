@@ -1,4 +1,5 @@
 <?php
+//hello world :)
 // ===================================================
 // Load database info and local development parameters
 // ===================================================
